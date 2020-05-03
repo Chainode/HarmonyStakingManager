@@ -1,6 +1,7 @@
 # Harmony Staking Manager 
 Harmony Staking Manager Bot (@HarmonyStakingMngBot), a Telegram bot that serves both Harmony validators and stakers
 
+![image](https://user-images.githubusercontent.com/53407923/80927386-dd46ad80-8d9d-11ea-9760-ab490035624b.png)
 
 The purpose of creating this bot was to provide the Harmony community with a high quality UX monitoring and alerting tool that works as a personal assistant in order to never miss crucial information related to the validator stats, staker stats and network status.
 
@@ -35,4 +36,3 @@ When we designed the Harmony Staking Manager tool, we did it with the UX in the 
 
 Stake with us!
 Last but not least we offer a resourceful and time-saving tool for our supporters — if you enjoy using this tool and you would like to directly support our team, you can do so by pressing “Stake with us” and you will see both the name of our validator as well as the direct link to delegate your ONE tokens towards our team.
-If you would like to interact with our team in order to further discuss this tool, staking on Harmony and other topics around Harmony Ecosystem, please join our Telegram Channel: https://t.me/ChainodeTech
