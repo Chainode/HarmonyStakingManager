@@ -49,5 +49,6 @@ This feature is specially dedicated to validators. They can define a lower and u
 
 **UX (User Experience)**<br/>
 When we designed the Harmony Staking Manager tool, we did it with the UX in the back of our minds. As we are already running validators on multiple blockchain protocols, including Harmony, we made use of our validator experience when deciding which parameters and notifications we wanted the tool to provide. We did this with both validators and stakers in mind and made sure to cater the most important information in the most efficient and user friendly way.<br/>
+Each of the implemented notifications can be activated/deactivated individually, as it can be seen in the picture below. <br/>
 ![image](https://user-images.githubusercontent.com/53407923/80927442-272f9380-8d9e-11ea-826c-730c381d270f.png)
 
